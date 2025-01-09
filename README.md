@@ -23,7 +23,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <h1 align="center">Funcionalidades do Projeto</h1>
 
-- `Cadastro e Login de Usuários`: Permite que clientes e funcionários se cadastrem e façam login no sistema. Clientes têm acesso às funcionalidades de compra, enquanto funcionários gerenciam os produtos e operações internas;
-- `Gestão de Produtos (CRUD)`: Funcionalidade para adicionar, visualizar, editar e excluir produtos, garantindo um catálogo atualizado e bem gerenciado;
-- `Tela Principal da Loja`: Exibe os produtos disponíveis de forma organizada oferecendo uma experiência de navegação intuitiva aos clientes;
-- `Carrinho de Compras`: Os clientes podem adicionar produtos ao carrinho, visualizar o total da compra, alterar quantidades ou remover itens, finalizando o pedido de forma prática e segura.
+- `scolha de Nível`: Permite que os usuários selecionem o nível de dificuldade antes de iniciar;
+- `Pontuação`: O sistema registra e exibe a pontuação do usuário em tempo real, incentivando o progresso e a superação de metas;
+- `Pontuação-Alvo`: Define um objetivo a ser alcançado, motivando o usuário a atingir ou superar a meta estabelecida durante a interação.
