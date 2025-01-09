@@ -10,16 +10,16 @@
 
 
 <h1 align="center">Introdução</h1>
-<p>Projeto desenvolvido durante a matéria de Desenvolvimento Framework para praticar operações CRUD usando PDO e implementar a arquitetura MVC.</p>
-<p>Consiste em um sistema de loja, onde é possível cadastrar e visualizar produtos.</p>
+<p>Projeto desenvolvido durante a matéria de Desenvolvimento Full-Stack para praticar a linguagem PHP.</p>
+<p>Consiste em um jogo da forca, onde o jogador deve acertar a palavra correspondente aos espaços disponíveis.</p>
 
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [PHP](https://www.php.net/)
-- [MySql Workbench](https://www.mysql.com/products/workbench/)
 - [VS Code](https://code.visualstudio.com/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <h1 align="center">Funcionalidades do Projeto</h1>
 
